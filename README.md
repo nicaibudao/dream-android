@@ -7,7 +7,7 @@ Android 2.3+
 
 ## Preview
 
-![gitbook-android](docs/preview/device-2016-03-23-225050.png)
+![gitbook-android](app/src/main/assets/book/index.html)
 
 
 ## License
