@@ -1,4 +1,4 @@
-# gitbook-android
+# [点击此处可网页查看](app/src/main/assets/book/index.html)
 
 An android app to read gitbook in the offline mode.
 
@@ -7,7 +7,7 @@ Android 2.3+
 
 ## Preview
 
-[点击此处可网页查看](app/src/main/assets/book/index.html)
+
 
 
 ## License
