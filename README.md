@@ -7,7 +7,7 @@ Android 2.3+
 
 ## Preview
 
-![gitbook-android](app/src/main/assets/book/index.html)
+[点击此处可网页查看](app/src/main/assets/book/index.html)
 
 
 ## License
