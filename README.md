@@ -1,4 +1,4 @@
-# [点击此处可网页查看](app/src/main/assets/book/index.html)
+#gitbook for https://github.com/xieanshuo/dream
 
 An android app to read gitbook in the offline mode.
 
